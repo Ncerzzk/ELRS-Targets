@@ -14,8 +14,8 @@
     "led": 16,
     "pwm_outputs": [3,9,10,5,2],
     "vbat": 17,
-    "vbat_offset": 12,
-    "vbat_scale": 310,
+    "vbat_offset": 0,
+    "vbat_scale": 93,
     "i2c_scl": 1,
     "i2c_sda": 0
 }
