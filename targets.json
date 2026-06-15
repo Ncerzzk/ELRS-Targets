@@ -1627,6 +1627,15 @@
                 "platform": "esp8285",
                 "firmware": "Unified_ESP8285_2400_RX"
             },
+            "gyro": {
+                "product_name": "Generic ESP8285 GYRO 2.4Ghz RX",
+                "lua_name": "ELRS+PWM+GYRO 2400RX",
+                "layout_file": "Generic 2400 gyro-elrs.json",
+                "upload_methods": ["uart", "wifi"],
+                "min_version": "3.0.0",
+                "platform": "esp8285",
+                "firmware": "Unified_ESP8285_2400_RX"
+            },
             "pa": {
                 "product_name": "Generic ESP8285 PA 2.4Ghz RX",
                 "lua_name": "ELRS+PA 2400RX",
